@@ -1,6 +1,6 @@
 # Landing page-based on Anime
 
-Welcome to this landing page based one Animes
+Welcome to this landing page based on Animes
 
 I added many popular anime posters here!
 
